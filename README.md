@@ -1,4 +1,4 @@
-## WORK IN PROGRESS
+# WORK IN PROGRESS
 
 This project starts from a dataset containing information about vehicle sales in the United States. The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data) and contains information about 558,837 used cars listed for sale.
 

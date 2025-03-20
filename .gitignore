@@ -1,4 +1,7 @@
-# macOS OS
+#VSCode settings
+.vscode/
+
+# macOS
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
